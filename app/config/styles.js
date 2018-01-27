@@ -1,6 +1,6 @@
-import EStylesheet from 'react-native-extended-stylesheet';
+import EStylesheet  from 'react-native-extended-stylesheet';
 
-const styles = EStylesheet.create({
+const styles = EStyleSheet.create({
 
 });
 
