@@ -1,5 +1,5 @@
 import React from 'react';
-import {  Text  } from 'react-native';
+import { Text } from 'react-native';
 import PropTypes from 'prop-types';
 import momment from 'moment';
 // just a text component, doesn't need to be a class
